@@ -65,6 +65,11 @@ XXX: customize docker image instead?
 
 ## Infrastructure
 
+### Scaling metrics
+
+* hard user limits
+* jitter, interrupts, packets per second
+
 ### Virtual Servers
 
 * Disable power saving (e.g. in BIOS set power management to "performance")
