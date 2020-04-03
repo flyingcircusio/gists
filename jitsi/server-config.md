@@ -19,5 +19,6 @@ DISABLE_VIDEO_BACKGROUND = true;
 
 ## Virtual Servers
 
+* Disable power saving (e.g. in BIOS set power management to "performance")
 * dedicated and pinned vCPUs
 * use non-generic CPU models (e.g. Skylake+)
