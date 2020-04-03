@@ -1,7 +1,10 @@
+* startVideoMuted: 8; (where does this belong?
+
 # jitsi-meet/config.js
 
 ```
 p2p.enabled = false;
+
 
 XXX constraints
 ```
@@ -12,7 +15,7 @@ XXX constraints
 DISABLE_VIDEO_BACKGROUND = true;
 ```
 
-# Hardware
+# Infrastructure
 
 ## Virtual Servers
 
