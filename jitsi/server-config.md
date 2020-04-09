@@ -33,6 +33,11 @@ Every participant after the 8th will start with muted video:
 startVideoMuted: 8,
 ```
 
+Only stream video of the last 10 speakers:
+
+```
+channelLastN: 10,
+```
 
 ## jitsi-meet/interface_config.js
 
