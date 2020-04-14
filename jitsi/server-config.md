@@ -17,7 +17,6 @@ Limit Resolution:
 ```
 constraints: {
     video: {
-        aspectRatio: 16 / 9,
         height: {
             ideal: 480,
             max: 480,
